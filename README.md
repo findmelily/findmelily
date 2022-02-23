@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m Pin
+- ###  Hi, I’m Pin :fairy_woman:
 - *I’m totally new to coding*
 - *How to reach me > [ig](www.instagram.com/21st_horizontal/)*
 
