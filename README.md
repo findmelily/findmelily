@@ -1,6 +1,6 @@
-- *### 👋 Hi, I’m Pin
-- *I’m totally new to coding
-- *How to reach me > [ig](www.instagram.com/21st_horizontal/) 
+- ### 👋 Hi, I’m Pin
+- *I’m totally new to coding*
+- *How to reach me > [ig](www.instagram.com/21st_horizontal/)*
 
 <!---
 findmelily/findmelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
