@@ -4,7 +4,7 @@
 - IT student<br>
 - only know the basic HTML CSS Python Java. <br>
 
-:envelope_with_arrow: How to reach me > [ig](https://www.instagram.com/21st_pinday/) :milky_way:
+:envelope_with_arrow: How to reach me > [ig](https://www.instagram.com/21st.pinday/) :milky_way:
 
 <!---
 findmelily/findmelily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
